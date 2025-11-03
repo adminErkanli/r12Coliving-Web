@@ -93,7 +93,3 @@ npx shadcn-ui@latest add card
 - [shadcn/ui Documentation](https://ui.shadcn.com)
 - [Zustand Documentation](https://docs.pmnd.rs/zustand)
 - [TanStack Query Documentation](https://tanstack.com/query/latest/docs/react/overview)
-
-## License
-
-[Add your license here]
